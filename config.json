@@ -1,5 +1,5 @@
 {
-    "model_name": "best-model",
+    "model_name": "my-model",
     "num_mels": 80,
     "num_freq": 1025,
     "sample_rate": 20000,
@@ -26,7 +26,7 @@
     "checkpoint": true,
     "save_step": 750,
     "print_step": 50,
-    "data_path": "/snakepit/shared/data/keithito/LJSpeech-1.1/",
+    "data_path": "F:\\LJSpeech-1.1\\",
     "min_seq_len": 0,
     "output_path": "experiments/"
   }

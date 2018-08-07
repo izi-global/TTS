@@ -25,7 +25,7 @@
 
   "checkpoint": true,
   "save_step": 376,
-  "data_path": "/run/shm/erogol/LJSpeech-1.0",
+  "data_path": "F:\\LJSpeech-1.1",
   "min_seq_len": 0, 
-  "output_path": "/data/shared/erogol_models/"
+  "output_path": "F:\\DiepDT-Test"
 }
