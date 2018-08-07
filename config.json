@@ -26,7 +26,7 @@
     "checkpoint": true,
     "save_step": 750,
     "print_step": 50,
-    "data_path": "F:\\LJSpeech-1.1\\",
+    "data_path": "F:/LJSpeech-1.1/",
     "min_seq_len": 0,
     "output_path": "experiments/"
   }
